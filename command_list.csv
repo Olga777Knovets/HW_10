@@ -4,3 +4,4 @@
     4  cd HW_10
     5  cd c:/Git/HW_10
     6  history > command_list.csv
+    7 git clone https://github.com/Olga777Knovets/HW_10.git
